@@ -1,4 +1,4 @@
-#This is a simple and fun bubble-popping game created using the Processing programming language.
+This is a simple and fun bubble-popping game created using the Processing programming language.
 
 #How It Works
     50 colorful bubbles move around the screen.
